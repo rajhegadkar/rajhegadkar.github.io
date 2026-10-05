@@ -10,8 +10,8 @@
 
 ## 🚀 Live Demo & Repository Structure
 
-- **Live URL**: `https://<your-username>.github.io/` or `https://<your-username>.github.io/portfolio/`
-- **Owner**: **Rajendra Hegadkar** (Pune, Maharashtra, India)
+- **Live URL**: `https://rajhegadkar.github.io/`
+- **Admin**: **Rajendra Hegadkar** (Pune, Maharashtra, India)
 - **Role**: Senior System Executive | IT Infrastructure Engineer | Systems Engineer
 
 ```text
